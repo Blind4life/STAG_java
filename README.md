@@ -1,2 +1,2 @@
-# STAG_java
+# STAG java
 2021-STAG
